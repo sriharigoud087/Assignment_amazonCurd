@@ -1,0 +1,6 @@
+@AmazonCrud_HostAddress = http://localhost:5211
+
+GET {{AmazonCrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
